@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage of Jie Xie"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Jie Xie"
 description              : &description "personal description"
