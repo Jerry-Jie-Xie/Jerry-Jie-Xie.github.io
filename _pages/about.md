@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Jie Xie"
-excerpt: "About me"
+excerpt: "Jie Xie"
 author_profile: true
 redirect_from: 
   - /about/
