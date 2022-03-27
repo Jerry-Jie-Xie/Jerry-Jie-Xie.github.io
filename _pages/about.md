@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Thank you for visting my site
+Thank you for visting my site!
 
 I am an Associate Professor in School of IoT at Jiangnan University. Before join JNU, I was a Postdoctoral Research Fellow at University of Waterloo. I obtained my PhD degree from Queensland University of Technology. 
 
