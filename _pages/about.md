@@ -19,7 +19,19 @@ School of Computer and Electronic Information, Nanjing Normal University <br>
 
 **Research Interests**
 ======
-My current research interests are Audio Classification, Speech/Speaker Recogntion, Image Classification, Time Series Anlaysis, particularly in animal sound classification, speech emotion recogntion, animal/fruit/vegetable image classification, driving maneuver/style classification, PM2.5 forecasting, and Imbalance learning.
+My current research interests are Audio Classification, Speech/Speaker Recogntion, Image Classification, Time Series Anlaysis, particularly 
+
+1. Animal sound classification
+
+2. Speech emotion recogntion
+
+3. Animal/Fruit/Vegetable image classification
+
+4. Driving maneuver/style classification
+
+5. PM2.5 forecasting
+
+6. Imbalance learning and Domain adaptation.
 
 
 **Shot Bio**
