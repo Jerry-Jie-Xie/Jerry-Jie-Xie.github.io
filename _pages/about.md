@@ -10,9 +10,6 @@ redirect_from:
 
 Thank you for visting my site!
 
-**Jie Xie (谢捷)**
-======
-
 Associate Professor <br>
 School of Computer and Electronic Information, Nanjing Normal University <br>
 
