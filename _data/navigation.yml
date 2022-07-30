@@ -6,9 +6,12 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Students"
+  - title: "Projects"
     url: /students/
-    
+  
+  - title: "Projects_student"
+    url: /pro_stu/
+  
   - title: "CV"
     url: /cv/
     
