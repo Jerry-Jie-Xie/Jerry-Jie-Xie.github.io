@@ -6,11 +6,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Projects"
+  - title: "Students"
     url: /students/
   
-  - title: "Projects_student"
-    url: /pro_stu/
+  - title: "Projects"
+    url: /projects/
   
   - title: "CV"
     url: /cv/
