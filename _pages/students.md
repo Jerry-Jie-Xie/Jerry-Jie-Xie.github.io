@@ -4,5 +4,5 @@ title: "Students"
 author_profile: true
 redirect_from: 
   - /md/
-  - /student.html
+  - /students.html
 ---
