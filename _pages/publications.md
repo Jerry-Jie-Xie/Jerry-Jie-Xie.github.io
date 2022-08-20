@@ -16,25 +16,30 @@ You can also find my full publication list on my [Google Scholar profile](https:
 ***2022***
 ======
 
-Sliding-window based scale-frequency map for bird sound classification using 2D-and 3D-CNN, **Jie Xie**, M Zhu, Expert Systems with Applications, 118054
+IF updated 2022/08/20
 
-An adaptive feature selection schema using improved technical indicators for predicting stock price movements, G Ji, J Yu, K Hu, ***Jie Xie***, X Ji. Expert Systems with Applications 200, 116941
+Sliding-window based scale-frequency map for bird sound classification using 2D-and 3D-CNN, **Jie Xie**, M Zhu, Expert Systems with Applications (IF: 8.665, 中科院1区
+), 118054
+
+An adaptive feature selection schema using improved technical indicators for predicting stock price movements, G Ji, J Yu, K Hu, ***Jie Xie***, X Ji. Expert Systems with Applications (IF: 8.665, 中科院1区) 200, 116941
 
 Frog calling activity detection using lightweight CNN with multi-view spectrogram: a case study on kroombit tinker frog, ***Jie Xie***, M Zhu, K Hu, J Zhang, H Hines, Y Guo, Machine Learning with Applications 7, 100202
 
-Hierarchical Ensemble Based Imbalance Classification, ***Jie Xie***, M Zhu, K Hu, International Conference on Computational Science, 192-204
+Hierarchical Ensemble Based Imbalance Classification, ***Jie Xie***, M Zhu, K Hu, International Conference on Computational Science (Core Ranking: A), 192-204
 
 ***2021***
 ======
-What are the economic concerns on environment? Mapping the research trends and frontiers on air pollution and health, ***Jie Xie***, M Zhu, Economic Research-Ekonomska Istraživanja, 1-27
+What are the economic concerns on environment? Mapping the research trends and frontiers on air pollution and health, ***Jie Xie***, M Zhu, Economic Research-Ekonomska Istraživanja (SSCI), 1-27
 
-LBP-based bird sound classification using improved feature selection algorithm, X Ji, K Jiang, ***Jie Xie***, International Journal of Speech Technology 24 (4), 1033-1045
+LBP-based bird sound classification using improved feature selection algorithm, X Ji, K Jiang, ***Jie Xie***, International Journal of Speech Technology (EI) 24 (4), 1033-1045
 
-On loss functions and CNNs for improved bioacoustic signal classification, ***Jie Xie***, K Hu, Y Guo, Q Zhu, J Yu, Ecological Informatics 64, 101331
+On loss functions and CNNs for improved bioacoustic signal classification, ***Jie Xie***, K Hu, Y Guo, Q Zhu, J Yu, Ecological Informatics (IF: 4.498, 中科院3区
+) 64, 101331
 
-Bioacoustic signal denoising: a review, ***Jie Xie***, JG Colonna, J Zhang, Artificial Intelligence Review 54 (5), 3575-3597
+Bioacoustic signal denoising: a review, ***Jie Xie***, JG Colonna, J Zhang, Artificial Intelligence Review (IF: 9.588, 中科院2区) 54 (5), 3575-3597
 
-CNN-based driving maneuver classification using multi-sliding window fusion, ***Jie Xie***, K Hu, G Li, Y Guo, Expert Systems with Applications 169, 114442
+CNN-based driving maneuver classification using multi-sliding window fusion, ***Jie Xie***, K Hu, G Li, Y Guo, Expert Systems with Applications (IF: 8.665, 中科院1区
+) 169, 114442
 
 ***2020***
 ======
