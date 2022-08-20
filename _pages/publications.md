@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected Publications"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -56,72 +56,72 @@ Z Dai, K Hu, ***Jie Xie***, S Shen, J Zheng, H Wu, Y Guo, Sensors 21 (5), 1668
 ***2020***
 ======
 
-32. Bioacoustic signal classification in continuous recordings: Syllable-segmentation vs sliding-window, ***Jie Xie***, K Hu, M Zhu, Y Guo, Expert Systems with Applications 152, 113390
+32.Bioacoustic signal classification in continuous recordings: Syllable-segmentation vs sliding-window, ***Jie Xie***, K Hu, M Zhu, Y Guo, Expert Systems with Applications 152, 113390
 
-31. Data-driven analysis of global research trends in bioacoustics and ecoacoustics from 1991 to 2018, ***Jie Xie***, K Hu, M Zhu, Y Guo, Ecological Informatics 57, 101068
+31.Data-driven analysis of global research trends in bioacoustics and ecoacoustics from 1991 to 2018, ***Jie Xie***, K Hu, M Zhu, Y Guo, Ecological Informatics 57, 101068
 
-30. Investigation of acoustic and visual features for frog call classification, ***Jie Xie***, M Towsey, J Zhang, P Roe, Journal of Signal Processing Systems 92 (1), 23-36
+30.Investigation of acoustic and visual features for frog call classification, ***Jie Xie***, M Towsey, J Zhang, P Roe, Journal of Signal Processing Systems 92 (1), 23-36
 
-29. Investigation of CNN-based models for Frog Calling Activity Detection. ***Jie Xie***, Kai Hu, Harry Hines, Jinglan Zhang, Ya Guo, and Jinghu Yu. In 2020 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC), pp. 1-4. IEEE, 2020.
+29.Investigation of CNN-based models for Frog Calling Activity Detection. ***Jie Xie***, Kai Hu, Harry Hines, Jinglan Zhang, Ya Guo, and Jinghu Yu. In 2020 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC), pp. 1-4. IEEE, 2020.
 
-28. 基于微助教的计算机图形学教学改革与创新, ***谢捷***, 课程教育研究
+28.基于微助教的计算机图形学教学改革与创新, ***谢捷***, 课程教育研究
 
 ***2019***
 ======
 
-27. Maneuver-based driving behavior classification based on random forest, ***Jie Xie***, M Zhu, IEEE Sensors Letters 3 (11), 1-4
+27.Maneuver-based driving behavior classification based on random forest, ***Jie Xie***, M Zhu, IEEE Sensors Letters 3 (11), 1-4
 
-26. Investigation of acoustic and visual features for acoustic scene classification, ***Jie Xie***, M Zhu, Expert Systems with Applications 126, 20-29
+26.Investigation of acoustic and visual features for acoustic scene classification, ***Jie Xie***, M Zhu, Expert Systems with Applications 126, 20-29
 
-25. Handcrafted features and late fusion with deep learning for bird sound classification, ***Jie Xie***, M Zhu, Ecological Informatics 52, 74-81
+25.Handcrafted features and late fusion with deep learning for bird sound classification, ***Jie Xie***, M Zhu, Ecological Informatics 52, 74-81
 
-24. Investigation of domain adaptation for acoustic frog species classification, ***Jie Xie***, M Zhu, 2019 IEEE 21st International Workshop on Multimedia Signal Processing (MMSP)
+24.Investigation of domain adaptation for acoustic frog species classification, ***Jie Xie***, M Zhu, 2019 IEEE 21st International Workshop on Multimedia Signal Processing (MMSP)
 
-23. Investigation of different CNN-based models for improved bird sound classification. ***Jie Xie***, Kai Hu, Mingying Zhu, Jinghu Yu, and Qibing Zhu. IEEE Access 7 (2019): 175353-175361.
+23.Investigation of different CNN-based models for improved bird sound classification. ***Jie Xie***, Kai Hu, Mingying Zhu, Jinghu Yu, and Qibing Zhu. IEEE Access 7 (2019): 175353-175361.
 
-22. Using machine learning techniques to classify cricket sound. ***Jie Xie***, and Susan M. Bertram. In Eleventh International Conference on Signal Processing Systems, vol. 11384, pp. 141-148. SPIE, 2019.
+22.Using machine learning techniques to classify cricket sound. ***Jie Xie***, and Susan M. Bertram. In Eleventh International Conference on Signal Processing Systems, vol. 11384, pp. 141-148. SPIE, 2019.
 
-21. A Dimension Reduction Method Using LSDA For Human Action Recognition. Lu, Tianran, Fengqin Yu, and ***Jie Xie***. In 2019 8th International Congress on Advanced Applied Informatics (IIAI-AAI), pp. 1085-1086. IEEE, 2019.
+21.A Dimension Reduction Method Using LSDA For Human Action Recognition. Lu, Tianran, Fengqin Yu, and ***Jie Xie***. In 2019 8th International Congress on Advanced Applied Informatics (IIAI-AAI), pp. 1085-1086. IEEE, 2019.
 
 ***2013---2018***
 ======
 
-20. Feature extraction based on bandpass filtering for frog call classification. ***Jie Xie***, Michael Towsey, Liang Zhang, Jinglan Zhang, and Paul Roe.  In International Conference on Image and Signal Processing, pp. 231-239. Springer, Cham, 2016.
+20.Feature extraction based on bandpass filtering for frog call classification. ***Jie Xie***, Michael Towsey, Liang Zhang, Jinglan Zhang, and Paul Roe.  In International Conference on Image and Signal Processing, pp. 231-239. Springer, Cham, 2016.
 
-19. Multiple-instance multiple-label learning for the classification of frog calls with acoustic event detection.  ***Jie Xie***, Michael Towsey, Liang Zhang, Kiyomi Yasumiba, Lin Schwarzkopf, Jinglan Zhang, and Paul Roe. In International Conference on Image and Signal Processing, pp. 222-230. Springer, Cham, 2016.
+19.Multiple-instance multiple-label learning for the classification of frog calls with acoustic event detection.  ***Jie Xie***, Michael Towsey, Liang Zhang, Kiyomi Yasumiba, Lin Schwarzkopf, Jinglan Zhang, and Paul Roe. In International Conference on Image and Signal Processing, pp. 222-230. Springer, Cham, 2016.
 
-18. Driver distraction recognition based on smartphone sensor data, ***Jie Xie***, AR Hilal, D Kulic, 2018 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
+18.Driver distraction recognition based on smartphone sensor data, ***Jie Xie***, AR Hilal, D Kulic, 2018 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
 
-17. Multi-label classification of frog species via deep learning, ***Jie Xie***, R Zeng, C Xu, J Zhang, P Roe, 2017 IEEE 13th International Conference on e-Science (e-Science), 187-193
+17.Multi-label classification of frog species via deep learning, ***Jie Xie***, R Zeng, C Xu, J Zhang, P Roe, 2017 IEEE 13th International Conference on e-Science (e-Science), 187-193
 
-16. Frog call classification: a survey, ***Jie Xie***, M Towsey, J Zhang, P Roe, Artificial Intelligence Review 49 (3), 375-391
+16.Frog call classification: a survey, ***Jie Xie***, M Towsey, J Zhang, P Roe, Artificial Intelligence Review 49 (3), 375-391
 
-15. Acoustic classification of frog within-species and species-specific calls, ***Jie Xie***, K Indraswari, L Schwarzkopf, M Towsey, J Zhang, P Roe, Applied Acoustics 131, 79-86
+15.Acoustic classification of frog within-species and species-specific calls, ***Jie Xie***, K Indraswari, L Schwarzkopf, M Towsey, J Zhang, P Roe, Applied Acoustics 131, 79-86
 
-14. Long-term monitoring of cane-toads using acoustic sensors, ***Jie Xie***, J Zhang, M Towsey, P Roe, 2017 16th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)
+14.Long-term monitoring of cane-toads using acoustic sensors, ***Jie Xie***, J Zhang, M Towsey, P Roe, 2017 16th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)
 
-13. An intelligent system for estimating frog community calling activity and species richness, ***Jie Xie***, M Towsey, M Zhu, J Zhang, P Roe, Ecological Indicators 82, 13-22
+13.An intelligent system for estimating frog community calling activity and species richness, ***Jie Xie***, M Towsey, M Zhu, J Zhang, P Roe, Ecological Indicators 82, 13-22
 
-12. Acoustic classification of Australian frogs based on enhanced features and machine learning algorithms, ***Jie Xie***, M Towsey, J Zhang, P Roe, Applied Acoustics 113, 193-201
+12.Acoustic classification of Australian frogs based on enhanced features and machine learning algorithms, ***Jie Xie***, M Towsey, J Zhang, P Roe, Applied Acoustics 113, 193-201
 
-11. Using multi-label classification for acoustic pattern detection and assisting bird species surveys, L Zhang, M Towsey, ***Jie Xie***, J Zhang, P Roe, Applied Acoustics 110, 91-98
+11.Using multi-label classification for acoustic pattern detection and assisting bird species surveys, L Zhang, M Towsey, ***Jie Xie***, J Zhang, P Roe, Applied Acoustics 110, 91-98
 
-10. Adaptive frequency scaled wavelet packet decomposition for frog call classification, ***Jie Xie***, M Towsey, J Zhang, P Roe, Ecological Informatics 32, 134-144
+10.Adaptive frequency scaled wavelet packet decomposition for frog call classification, ***Jie Xie***, M Towsey, J Zhang, P Roe, Ecological Informatics 32, 134-144
 
-9. Application of image processing techniques for frog call classification, ***Jie Xie***, M Towsey, J Zhang, X Dong, P Roe, 2015 IEEE International Conference on Image Processing (ICIP), 4190-4194
+9.Application of image processing techniques for frog call classification, ***Jie Xie***, M Towsey, J Zhang, X Dong, P Roe, 2015 IEEE International Conference on Image Processing (ICIP), 4190-4194
  
-8. Detecting frog calling activity based on acoustic event detection and multi-label learning.  ***Jie Xie***, Towsey Michael, Jinglan Zhang, and Paul Roe. Procedia Computer Science 80 (2016): 627-638.
+8.Detecting frog calling activity based on acoustic event detection and multi-label learning.  ***Jie Xie***, Towsey Michael, Jinglan Zhang, and Paul Roe. Procedia Computer Science 80 (2016): 627-638.
  
-7. Acoustic features for multi-level classification of Australian frogs.   ***Jie Xie***, Jinglan Zhang, and Paul Roe. In 2015 10th International Conference on Information, Communications and Signal Processing (ICICS), pp. 1-5. IEEE, 2015.
+7.Acoustic features for multi-level classification of Australian frogs.   ***Jie Xie***, Jinglan Zhang, and Paul Roe. In 2015 10th International Conference on Information, Communications and Signal Processing (ICICS), pp. 1-5. IEEE, 2015.
  
-6. Generalised features for bird vocalisation retrieval in acoustic recordings. Dong, Xueyan,  ***Jie Xie***, Michael Towsey, Jinglan Zhang, and Paul Roe.  In 2015 IEEE 17th International Workshop on Multimedia Signal Processing (MMSP), pp. 1-6. IEEE, 2015.
+6.Generalised features for bird vocalisation retrieval in acoustic recordings. Dong, Xueyan,  ***Jie Xie***, Michael Towsey, Jinglan Zhang, and Paul Roe.  In 2015 IEEE 17th International Workshop on Multimedia Signal Processing (MMSP), pp. 1-6. IEEE, 2015.
  
-5. Image processing and classification procedure for the analysis of australian frog vocalisations. ***Jie Xie***, Michael Towsey, Jinglan Zhang, and Paul Roe. In Proceedings of the 2Nd International Workshop on Environmental Multimedia Retrieval, pp. 15-20. 2015.
+5.Image processing and classification procedure for the analysis of australian frog vocalisations. ***Jie Xie***, Michael Towsey, Jinglan Zhang, and Paul Roe. In Proceedings of the 2Nd International Workshop on Environmental Multimedia Retrieval, pp. 15-20. 2015.
 
-4. Acoustic feature extraction using perceptual wavelet packet decomposition for frog call classification, ***Jie Xie***, M Towsey, P Eichinski, J Zhang, P Roe, 2015 IEEE 11th International Conference on e-Science, 237-242
+4.Acoustic feature extraction using perceptual wavelet packet decomposition for frog call classification, ***Jie Xie***, M Towsey, P Eichinski, J Zhang, P Roe, 2015 IEEE 11th International Conference on e-Science, 237-242
 
-3. Detection of anuran calling activity in long field recordings for bio-acoustic monitoring. ***Jie Xie***, Michael Towsey, Kiyomi Yasumiba, Jinglan Zhang, and Paul Roe.  In 2015 IEEE Tenth International Conference on Intelligent Sensors, Sensor Networks and Information Processing (ISSNIP), pp. 1-6. IEEE, 2015.
+3.Detection of anuran calling activity in long field recordings for bio-acoustic monitoring. ***Jie Xie***, Michael Towsey, Kiyomi Yasumiba, Jinglan Zhang, and Paul Roe.  In 2015 IEEE Tenth International Conference on Intelligent Sensors, Sensor Networks and Information Processing (ISSNIP), pp. 1-6. IEEE, 2015.
 
-2. Acoustic classification of australian anurans using syllable features. ***Jie Xie***, Michael Towsey, Anthony Truskinger, Philip Eichinski, Jinglan Zhang, and Paul Roe.  In 2015 IEEE tenth international conference on intelligent sensors, sensor networks and information processing (ISSNIP), pp. 1-6. IEEE, 2015.
+2.Acoustic classification of australian anurans using syllable features. ***Jie Xie***, Michael Towsey, Anthony Truskinger, Philip Eichinski, Jinglan Zhang, and Paul Roe.  In 2015 IEEE tenth international conference on intelligent sensors, sensor networks and information processing (ISSNIP), pp. 1-6. IEEE, 2015.
 
-1. 密集人群建模中的阈值训练, ***谢捷***， 焦佳佳， 王丽娜， 张之江, 电子测量技术, 34-38
+1.密集人群建模中的阈值训练, ***谢捷***， 焦佳佳， 王丽娜， 张之江, 电子测量技术, 34-38
