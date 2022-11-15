@@ -18,10 +18,10 @@ You can also find my full publication list on my [Google Scholar profile](https:
 
 IF updated 2022/11/15
 
-49. Improved seabird image classification based on dual transfer learning framework and spatial pyramid pooling
+49.Improved seabird image classification based on dual transfer learning framework and spatial pyramid pooling
 ***J Xie***, M Zhu, K Hu, Ecological Informatics 72, 101832 (IF: 4.498, 中科院3区)
 
-48. Investigation of nearby monitoring station for hourly PM2. 5 forecasting using parallel multi-input 1D-CNN-biLSTM
+48.Investigation of nearby monitoring station for hourly PM2. 5 forecasting using parallel multi-input 1D-CNN-biLSTM
 M Zhu, ***J Xie***, Expert Systems with Applications 211, 118707 (IF: 8.665, 中科院1区)
 
 47.Sliding-window based scale-frequency map for bird sound classification using 2D-and 3D-CNN, **Jie Xie**, M Zhu, Expert Systems with Applications (IF: 8.665, 中科院1区), 118054
