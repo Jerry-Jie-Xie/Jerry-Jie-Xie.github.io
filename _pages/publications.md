@@ -16,7 +16,9 @@ You can also find my full publication list on my [Google Scholar profile](https:
 ***2022***
 ======
 
-IF updated 2022/11/15
+IF updated 2022/12/03
+
+50.Instance hardness and multivariate Gaussian distribution based oversampling technique for imbalance classification, Pattern Analysis and Applications. (Accepted)
 
 49.Improved seabird image classification based on dual transfer learning framework and spatial pyramid pooling
 ***J Xie***, M Zhu, K Hu, Ecological Informatics 72, 101832 (IF: 4.498, 中科院3区)
