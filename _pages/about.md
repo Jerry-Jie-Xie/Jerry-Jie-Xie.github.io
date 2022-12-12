@@ -37,7 +37,7 @@ My current research interests are Audio Classification, Speech/Speaker Recogniti
 
 **Shot Bio**
 ======
-I am an Associate Professor in School of Computer and Electronic Information at Nanjing Normal University. Before join NNU, I was an Associate Professor at Jiangnan University and a Postdoctoral Research Fellow at University of Waterloo. I obtained my PhD degree from Queensland University of Technology. My bachelor and master degree are obtained from Shanghai University. 
+I am an Associate Professor in School of Computer and Electronic Information / School of Artificial Intelligence at Nanjing Normal University. Before join NNU, I was an Associate Professor at Jiangnan University and a Postdoctoral Research Fellow at University of Waterloo. I obtained my PhD degree from Queensland University of Technology. My bachelor and master degree are obtained from Shanghai University. 
 
 
 **Academic Service**
