@@ -19,8 +19,8 @@ School of Computer and Electronic Information, Nanjing Normal University <br>
 
 **Recent Activites**
 ======
-2022-12-12, presentation at 第14届全国生物多样性研讨会
-2022-11-26, presentation at Sino BON-Mammal交叉科学前沿论坛第十九讲暨生物声学研究前沿论坛专题讲座
+1. presentation at 第14届全国生物多样性研讨会, 2022-12-12
+2. presentation at Sino BON-Mammal交叉科学前沿论坛第十九讲暨生物声学研究前沿论坛专题讲座, 2022-11-26
 
 
 **Research Interests**
