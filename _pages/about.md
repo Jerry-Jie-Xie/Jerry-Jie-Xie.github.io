@@ -17,6 +17,12 @@ School of Computer and Electronic Information, Nanjing Normal University <br>
 <span style="color:red">**欢迎各位同学加盟课题组！欢迎感兴趣的同学与我联系！可参与的课题详见 Students **</span> 
 <br/>
 
+**Recent Activites**
+======
+2022-12-12, presentation at 第14届全国生物多样性研讨会
+2022-11-26, presentation at Sino BON-Mammal交叉科学前沿论坛第十九讲暨生物声学研究前沿论坛专题讲座
+
+
 **Research Interests**
 ======
 My current research interests are Audio Classification, Speech/Speaker Recognition, Image Classification, and Time Series Anlaysis, particularly 
