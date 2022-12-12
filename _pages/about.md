@@ -11,7 +11,7 @@ redirect_from:
 Thank you for visting my site!
 
 Associate Professor <br>
-School of Computer and Electronic Information, Nanjing Normal University <br>
+School of Computer and Electronic Information, Nanjing Normal University
 
 <br/>
 <span style="color:red">**欢迎各位同学加盟课题组！欢迎感兴趣的同学与我联系！可参与的课题详见 Students **</span> 
