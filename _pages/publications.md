@@ -18,6 +18,8 @@ You can also find my full publication list on my [Google Scholar profile](https:
 
 IF updated 2022/12/03
 
+51.肖治术, 崔建国, 王代平, 王志陶, 罗金红, **谢捷**. (2023). 现代生物声学的学科发展趋势及中国机遇. 生物多样性, 31(1), 22423.
+
 50.Instance hardness and multivariate Gaussian distribution based oversampling technique for imbalance classification, Pattern Analysis and Applications. (Accepted)
 
 49.Improved seabird image classification based on dual transfer learning framework and spatial pyramid pooling
