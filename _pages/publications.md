@@ -12,32 +12,30 @@ You can also find my full publication list on my [Google Scholar profile](https:
   {% include archive-single.html %}
 {% endfor %}
 
+IF updated 2023/02/08
 
-***2022***
 ======
 
-IF updated 2022/12/03
+53.肖治术, 崔建国, 王代平, 王志陶, 罗金红, **谢捷**. (2023). 现代生物声学的学科发展趋势及中国机遇. 生物多样性, 31(1), 22423.
 
-51.肖治术, 崔建国, 王代平, 王志陶, 罗金红, **谢捷**. (2023). 现代生物声学的学科发展趋势及中国机遇. 生物多样性, 31(1), 22423.
+52.**Xie, J**., Zhu, M., Hu, K., & Zhang, J. (2023). Instance hardness and multivariate Gaussian distribution-based oversampling technique for imbalance classification. Pattern Analysis and Applications, 1-15.
 
-50.Instance hardness and multivariate Gaussian distribution based oversampling technique for imbalance classification, Pattern Analysis and Applications. (Accepted)
+51.M Zhu, ***J Xie***. Investigation of nearby monitoring station for hourly PM2. 5 forecasting using parallel multi-input 1D-CNN-biLSTM. Expert Systems with Applications 211, 118707 (IF: 8.665, 中科院1区)
 
-49.Improved seabird image classification based on dual transfer learning framework and spatial pyramid pooling
-***J Xie***, M Zhu, K Hu, Ecological Informatics 72, 101832 (IF: 4.498, 中科院3区)
+50.***J Xie***, M Zhu, K Hu. Improved seabird image classification based on dual transfer learning framework and spatial pyramid pooling.  Ecological Informatics 72, 101832 (IF: 4.498, 中科院3区)
 
-48.Investigation of nearby monitoring station for hourly PM2. 5 forecasting using parallel multi-input 1D-CNN-biLSTM
-M Zhu, ***J Xie***, Expert Systems with Applications 211, 118707 (IF: 8.665, 中科院1区)
+49.**Jie Xie**, M Zhu. Sliding-window based scale-frequency map for bird sound classification using 2D-and 3D-CNN. Expert Systems with Applications (IF: 8.665, 中科院1区), 118054
 
-47.Sliding-window based scale-frequency map for bird sound classification using 2D-and 3D-CNN, **Jie Xie**, M Zhu, Expert Systems with Applications (IF: 8.665, 中科院1区), 118054
+48.An adaptive feature selection schema using improved technical indicators for predicting stock price movements, G Ji, J Yu, K Hu, ***Jie Xie***, X Ji. Expert Systems with Applications (IF: 8.665, 中科院1区) 200, 116941
 
-46.An adaptive feature selection schema using improved technical indicators for predicting stock price movements, G Ji, J Yu, K Hu, ***Jie Xie***, X Ji. Expert Systems with Applications (IF: 8.665, 中科院1区) 200, 116941
+47.Frog calling activity detection using lightweight CNN with multi-view spectrogram: a case study on kroombit tinker frog, ***Jie Xie***, M Zhu, K Hu, J Zhang, H Hines, Y Guo, Machine Learning with Applications 7, 100202
 
-45.Frog calling activity detection using lightweight CNN with multi-view spectrogram: a case study on kroombit tinker frog, ***Jie Xie***, M Zhu, K Hu, J Zhang, H Hines, Y Guo, Machine Learning with Applications 7, 100202
+46.**Xie J**, Hu K, Zhu M. Improved Bird Sound Classification Based on Deep Cascade Feature.2022 IEEE 10th International Conference on Information, Communication and Networks (ICICN). IEEE, 2022: 401-405.
+
+45.Ji, X., Cai, Z., Li, Q., **Xie, J**., & Hu, K. (2022, August). Improving Text Classification for Auditing Application Using Adversarial Training and Chinese Pretrained Model. In 2022 IEEE 10th International Conference on Information, Communication and Networks (ICICN) (pp. 619-624). IEEE.
 
 44.Hierarchical Ensemble Based Imbalance Classification, ***Jie Xie***, M Zhu, K Hu, International Conference on Computational Science (Core Ranking: A), 192-204
 
-***2021***
-======
 43.What are the economic concerns on environment? Mapping the research trends and frontiers on air pollution and health, ***Jie Xie***, M Zhu, Economic Research-Ekonomska Istraživanja (SSCI), 1-27
 
 42.LBP-based bird sound classification using improved feature selection algorithm, X Ji, K Jiang, ***Jie Xie***, International Journal of Speech Technology (EI) 24 (4), 1033-1045
@@ -62,10 +60,6 @@ Z Dai, K Hu, ***Jie Xie***, S Shen, J Zheng, H Wu, Y Guo, Sensors 21 (5), 1668
 
 33.风机噪声环境下的鸡鸣自动识别, ***谢捷***， 江昆， 罗展， 胡凯， 吉训生, 畜禽业
 
-
-***2020***
-======
-
 32.Bioacoustic signal classification in continuous recordings: Syllable-segmentation vs sliding-window, ***Jie Xie***, K Hu, M Zhu, Y Guo, Expert Systems with Applications 152, 113390
 
 31.Data-driven analysis of global research trends in bioacoustics and ecoacoustics from 1991 to 2018, ***Jie Xie***, K Hu, M Zhu, Y Guo, Ecological Informatics 57, 101068
@@ -75,9 +69,6 @@ Z Dai, K Hu, ***Jie Xie***, S Shen, J Zheng, H Wu, Y Guo, Sensors 21 (5), 1668
 29.Investigation of CNN-based models for Frog Calling Activity Detection. ***Jie Xie***, Kai Hu, Harry Hines, Jinglan Zhang, Ya Guo, and Jinghu Yu. In 2020 IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC), pp. 1-4. IEEE, 2020.
 
 28.基于微助教的计算机图形学教学改革与创新, ***谢捷***, 课程教育研究
-
-***2019***
-======
 
 27.Maneuver-based driving behavior classification based on random forest, ***Jie Xie***, M Zhu, IEEE Sensors Letters 3 (11), 1-4
 
