@@ -27,6 +27,8 @@ School of Computer and Electronic Information, Nanjing Normal University
 
 **Research Interests**
 ======
+A TAG for my whole research is "Ecological Informatics" (生态信息学).
+
 My current research interests are Audio Classification, Speech/Speaker Recognition, Image Classification, and Time Series Anlaysis, particularly 
 
 1. Animal sound classification
@@ -47,7 +49,7 @@ I am an Associate Professor in School of Computer and Electronic Information / S
 Reviewer: IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Multimedia, Journal of the American Statistical Association
 IEEE Access, Journal of Herpetology, PeerJ, Ecological Informatics, Applied Acoustics, European Journal of Remote Sensing, SPLINE 2016, IEEE SMC 2018, ICCCAS 2018
 
-TPC: CIIS 2017, ICCCAS 2018, ICICN 2022, ACSE 2023
+TPC: CIIS 2017, ICCCAS 2018, ICICN 2022, ACSE 2023, ISHCI2023
 
 
 
