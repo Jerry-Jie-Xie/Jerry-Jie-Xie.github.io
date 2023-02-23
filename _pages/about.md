@@ -20,8 +20,9 @@ School of Computer and Electronic Information, Nanjing Normal University
 
 **Recent Activites**
 ======
-1. presentation at 第14届全国生物多样性研讨会, 2022-12-12
-2. presentation at Sino BON-Mammal交叉科学前沿论坛第十九讲暨生物声学研究前沿论坛专题讲座, 2022-11-26
+1. join as the TPC in several conferences including ACSE2023, ISHCI2023. 2023-02-23
+2. presentation at 第14届全国生物多样性研讨会, 2022-12-12
+3. presentation at Sino BON-Mammal交叉科学前沿论坛第十九讲暨生物声学研究前沿论坛专题讲座, 2022-11-26
 
 
 **Research Interests**
