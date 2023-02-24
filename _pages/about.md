@@ -20,14 +20,15 @@ School of Computer and Electronic Information, Nanjing Normal University
 
 **Recent Activites**
 ======
-1. join as the TPC in several conferences including ACSE2023, ISHCI2023. 2023-02-23
-2. presentation at 第14届全国生物多样性研讨会, 2022-12-12
-3. presentation at Sino BON-Mammal交叉科学前沿论坛第十九讲暨生物声学研究前沿论坛专题讲座, 2022-11-26
+1. join as the Academic Editor for Plos One
+2. join as the TPC in several conferences including ACSE2023, ISHCI2023
+3. presentation at 第14届全国生物多样性研讨会, 2022-12-12
+4. presentation at Sino BON-Mammal交叉科学前沿论坛第十九讲暨生物声学研究前沿论坛专题讲座, 2022-11-26
 
 
 **Research Interests**
 ======
-A TAG for my whole research is "Ecological Informatics" (生态信息学).
+A <span style="color:red">TAG</span> for my whole research is <span style="color:red">Ecological Informatics" (生态信息学)</span>".
 
 My current research interests are Audio Classification, Speech/Speaker Recognition, Image Classification, and Time Series Anlaysis, particularly 
 
