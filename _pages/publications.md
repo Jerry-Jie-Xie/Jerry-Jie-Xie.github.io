@@ -15,6 +15,7 @@ You can also find my full publication list on my [Google Scholar profile](https:
 IF updated 2023/02/08
 
 ======
+54.**Xie, J**.; Zhu, M. Acoustic Classification of Bird Species Using an Early Fusion of Deep Features. Birds 2023, 4, 138-147. (Invited Paper)
 
 53.肖治术, 崔建国, 王代平, 王志陶, 罗金红, **谢捷**. (2023). 现代生物声学的学科发展趋势及中国机遇. 生物多样性, 31(1), 22423.
 
