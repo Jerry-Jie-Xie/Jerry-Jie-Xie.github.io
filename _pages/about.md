@@ -48,7 +48,7 @@ I am an Associate Professor in School of Computer and Electronic Information / S
 
 **Academic Service**
 ======
-Reviewer: IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Multimedia, Journal of the American Statistical Association
+Reviewer: IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Multimedia, Journal of the American Statistical Association,
 IEEE Access, Journal of Herpetology, PeerJ, Ecological Informatics, Applied Acoustics, European Journal of Remote Sensing, SPLINE 2016, IEEE SMC 2018, ICCCAS 2018
 
 TPC: CIIS 2017, ICCCAS 2018, ICICN 2022, ACSE 2023, ISHCI2023
