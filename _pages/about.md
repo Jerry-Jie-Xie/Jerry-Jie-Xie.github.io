@@ -20,11 +20,12 @@ School of Computer and Electronic Information, Nanjing Normal University
 
 **Recent Activites**
 ======
-1. join the Editorial Team for International Journal of Architectural Engineering Technology
-2. join as the Academic Editor for Plos One
-3. join as the TPC in several conferences including ACSE2023, ISHCI2023, ISIA2023
-4. presentation at 第14届全国生物多样性研讨会, 2022-12-12
-5. presentation at Sino BON-Mammal交叉科学前沿论坛第十九讲暨生物声学研究前沿论坛专题讲座, 2022-11-26
+1. join the Editorial board for Bird, 2023-04-20
+2. join the Editorial Team for International Journal of Architectural Engineering Technology
+3. join as the Academic Editor for Plos One
+4. join as the TPC in several conferences including ACSE2023, ISHCI2023, ISIA2023
+5. presentation at 第14届全国生物多样性研讨会, 2022-12-12
+6. presentation at Sino BON-Mammal交叉科学前沿论坛第十九讲暨生物声学研究前沿论坛专题讲座, 2022-11-26
 
 
 **Research Interests**
