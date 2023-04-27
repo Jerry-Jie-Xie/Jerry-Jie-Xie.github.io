@@ -42,15 +42,27 @@ My current research interests are Audio Classification, Speech/Speaker Recogniti
 6. Imbalance learning and Domain adaptation.
 
 
-**Shot Bio**
+**Short Bio**
 ======
-I am an Associate Professor in School of Computer and Electronic Information / School of Artificial Intelligence at Nanjing Normal University. Before join NNU, I was an Associate Professor at Jiangnan University and a Postdoctoral Research Fellow at University of Waterloo. I obtained my PhD degree from Queensland University of Technology. My bachelor and master degree are obtained from Shanghai University. 
+I am an Associate Professor in School of Computer and Electronic Information / School of Artificial Intelligence at Nanjing Normal University. 
+Before join NNU, I was an Associate Professor at Jiangnan University and a Postdoctoral Research Fellow at University of Waterloo. 
+I obtained my PhD degree from Queensland University of Technology. 
+My bachelor and master degree are obtained from Shanghai University. 
 
 
 **Academic Service**
 ======
-Reviewer: IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Multimedia, Journal of the American Statistical Association,
-IEEE Access, Journal of Herpetology, PeerJ, Ecological Informatics, Applied Acoustics, European Journal of Remote Sensing, SPLINE 2016, IEEE SMC 2018, ICCCAS 2018
+Reviewer: 
+IEEE Transactions on Intelligent Transportation Systems
+IEEE Transactions on Multimedia
+Journal of the American Statistical Association,
+IEEE Access
+Journal of Herpetology
+PeerJ
+Ecological Informatics
+Applied Acoustics
+European Journal of Remote Sensing
+SPLINE 2016, IEEE SMC 2018, ICCCAS 2018
 
 TPC: CIIS 2017, ICCCAS 2018, ICICN 2022, ACSE 2023, ISHCI2023
 
