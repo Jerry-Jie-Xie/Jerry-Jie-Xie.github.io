@@ -20,7 +20,7 @@ School of Computer and Electronic Information, Nanjing Normal University
 
 **Recent Activites**
 ======
-1. join the Editorial board for Bird, 2023-04-20
+1. join the Editorial board for Birds, 2023-04-20
 2. join the Editorial Team for International Journal of Architectural Engineering Technology
 3. join as the Academic Editor for Plos One
 4. join as the TPC in several conferences including ACSE2023, ISHCI2023, ISIA2023
