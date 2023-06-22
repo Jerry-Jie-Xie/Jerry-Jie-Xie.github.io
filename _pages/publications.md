@@ -20,7 +20,7 @@ IF updated 2023/02/08
 
 53.肖治术, 崔建国, 王代平, 王志陶, 罗金红, **谢捷**. (2023). 现代生物声学的学科发展趋势及中国机遇. 生物多样性, 31(1), 22423.
 
-52.**Xie, J**., Zhu, M., Hu, K., & Zhang, J. (2023). Instance hardness and multivariate Gaussian distribution-based oversampling technique for imbalance classification. Pattern Analysis and Applications, 1-15.
+52.**Xie, J**., Zhu, M., Hu, K., & Zhang, J. (2023). Instance hardness and multivariate Gaussian distribution-based oversampling technique for imbalance classification. Pattern Analysis and Applications, 1-15 (CCF-C)
 
 51.M Zhu, ***J Xie***. Investigation of nearby monitoring station for hourly PM2. 5 forecasting using parallel multi-input 1D-CNN-biLSTM. Expert Systems with Applications 211, 118707 (IF: 8.665, 中科院1区)
 
