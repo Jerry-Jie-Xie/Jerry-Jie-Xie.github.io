@@ -12,9 +12,14 @@ You can also find my full publication list on my [Google Scholar profile](https:
   {% include archive-single.html %}
 {% endfor %}
 
-IF updated 2023/02/08
+IF updated 2023/10/23
 
 ======
+57.S Shi, K Hu, **J Xie**, Y Guo, H Wu. Robust scientific text classification using prompt tuning based on data augmentation with L2 regularization. Information Processing & Management 61 (1), 103531
+
+56.K Hu, Q Li, **J Xie**, Y Pu, Y Guo. Using pre-trained models and graph convolution networks to find the causal relations among events in the Chinese financial text data. Multimedia Tools and Applications, 1-22
+
+55.**J Xie**, M Zhu, K Hu. Fusion-based speech emotion classification using two-stage feature selection. Speech Communication 152, 102955.
 
 54.**Xie, J**.; Zhu, M. Acoustic Classification of Bird Species Using an Early Fusion of Deep Features. Birds 2023, 4, 138-147. (Invited Paper)
 
