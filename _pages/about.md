@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Thank you for visting my site!
+Thank you for visiting my site!
 
 Associate Professor <br>
 School of Computer and Electronic Information, Nanjing Normal University
@@ -18,31 +18,32 @@ School of Computer and Electronic Information, Nanjing Normal University
 <br/>
 
 
-**Recent Activites**
+**Recent Activities**
 ======
-1. One paper Accepted at Multimedia Tools and Applications (CCF-C) and one paper Accepted at Information Processing & Management (CCF-B)
-2. Two papers Accepted at ACPR conference
-3. presentation at 第五届全国生物多样性监测会议 & 参加第十七届中国鸟类学大会
-4. One paper Accepted at Speech Communication (CCF-B)
-5. 组织第十届CSMT全国声音与音乐技术会议的生态声学分论坛，2023-06-02
-6. presentation at 第七届BEST生物多样性监测网络研讨会
-7. visit 海南师范大学和吊罗山野外研究基地
-8. join the Editorial board for Birds, 2023-04-20
-9. join the Editorial Team for International Journal of Architectural Engineering Technology
-10. join as the Academic Editor for Plos One
-11. join as the TPC in several conferences including ACSE2023, ISHCI2023, ISIA2023
-12. presentation at 第14届全国生物多样性研讨会, 2022-12-12
-13. presentation at Sino BON-Mammal交叉科学前沿论坛第十九讲暨生物声学研究前沿论坛专题讲座, 2022-11-26
+1. One paper Accepted at Ecological Indicators (中科院二区) 2023-12-25
+2. One paper Accepted at Multimedia Tools and Applications (CCF-C) and one paper Accepted at Information Processing & Management (CCF-B)
+3. Two papers Accepted at ACPR conference
+4. presentation at 第五届全国生物多样性监测会议 & 参加第十七届中国鸟类学大会
+5. One paper Accepted at Speech Communication (CCF-B)
+6. 组织第十届CSMT全国声音与音乐技术会议的生态声学分论坛，2023-06-02
+7. presentation at 第七届BEST生物多样性监测网络研讨会
+8. visit 海南师范大学和吊罗山野外研究基地
+9. join the Editorial Board for Birds, 2023-04-20
+10. join the Editorial Team for International Journal of Architectural Engineering Technology
+11. join as the Academic Editor for Plos One
+12. join as the TPC in several conferences including ACSE2023, ISHCI2023, ISIA2023
+13. presentation at 第14届全国生物多样性研讨会, 2022-12-12
+14. presentation at Sino BON-Mammal交叉科学前沿论坛第十九讲暨生物声学研究前沿论坛专题讲座, 2022-11-26
 
 
 **Research Interests**
 ======
 A <span style="color:red">TAG</span> for my whole research is <span style="color:red">"Ecological Informatics" (生态信息学)</span>.
 
-My current research interests are Audio Classification, Speech/Speaker Recognition, Image Classification, and Time Series Anlaysis, particularly 
+My current research interests are Audio Classification, Speech/Speaker Recognition, Image Classification, and Time Series Analysis, particularly 
 
 1. Animal sound classification
-2. Speech emotion recogntion
+2. Speech emotion recognition
 3. Animal/Fruit/Vegetable image classification
 4. Driving maneuver/style classification
 5. PM2.5/AQI forecasting
@@ -51,10 +52,10 @@ My current research interests are Audio Classification, Speech/Speaker Recogniti
 
 **Short Bio**
 ======
-I am an Associate Professor in School of Computer and Electronic Information / School of Artificial Intelligence at Nanjing Normal University. 
-Before join NNU, I was an Associate Professor at Jiangnan University and a Postdoctoral Research Fellow at University of Waterloo. 
+I am an Associate Professor in the School of Computer and Electronic Information / School of Artificial Intelligence at Nanjing Normal University. 
+Before joining NNU, I was an Associate Professor at Jiangnan University and a Postdoctoral Research Fellow at the University of Waterloo. 
 I obtained my PhD degree from Queensland University of Technology. 
-My bachelor and master degree are obtained from Shanghai University. 
+My bachelor's and master's degrees are obtained from Shanghai University. 
 
 
 **Academic Service**
