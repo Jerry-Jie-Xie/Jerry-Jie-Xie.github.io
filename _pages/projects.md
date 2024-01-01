@@ -1,6 +1,6 @@
 ---
 permalink: /projects/
-title: "Projects"
+title: "Grants"
 author_profile: true
 redirect_from: 
   - /md/
