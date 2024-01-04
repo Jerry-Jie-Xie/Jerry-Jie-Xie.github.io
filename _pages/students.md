@@ -1,10 +1,10 @@
 ---
-permalink: /students/
-title: "Students"
+permalink: /projects/
+title: "Projects"
 author_profile: true
 redirect_from: 
   - /md/
-  - /students.html
+  - /projects.html
 ---
 
 ======
