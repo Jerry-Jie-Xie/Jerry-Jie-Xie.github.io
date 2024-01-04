@@ -1,10 +1,10 @@
 ---
-permalink: /projects/
-title: "Projects"
+permalink: /grants/
+title: "Grants"
 author_profile: true
 redirect_from: 
   - /md/
-  - /projects.html
+  - /grants.html
 ---
 
 
