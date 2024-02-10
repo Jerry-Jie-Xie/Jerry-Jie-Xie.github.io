@@ -40,19 +40,19 @@ School of Computer and Electronic Information, Nanjing Normal University
 ======
 A <span style="color:red">TAG</span> for my whole research is <span style="color:red">"Ecological Informatics" (生态信息学)</span>.
 
-My current research interests are Audio Classification, Speech/Speaker Recognition, Image Classification, and Time Series Analysis, particularly 
+My current research interests are Audio Classification, Speech/Speaker Recognition, Fine-Grained Image Classification, and Time Series Analysis, particularly 
 
 1. Animal sound classification
 2. Speech emotion recognition
 3. Animal/Fruit/Vegetable image classification
 4. Driving maneuver/style classification
 5. PM2.5/AQI forecasting
-6. Imbalance learning and Domain adaptation.
+6. Imbalance learning and Domain adaptation
 
 
 **Short Bio**
 ======
-I am an Associate Professor in the School of Computer and Electronic Information / School of Artificial Intelligence at Nanjing Normal University. 
+Currently, I am an Associate Professor in the School of Computer and Electronic Information / School of Artificial Intelligence at Nanjing Normal University. 
 Before joining NNU, I was an Associate Professor at Jiangnan University and a Postdoctoral Research Fellow at the University of Waterloo. 
 I obtained my PhD degree from Queensland University of Technology. 
 My bachelor's and master's degrees are obtained from Shanghai University. 
