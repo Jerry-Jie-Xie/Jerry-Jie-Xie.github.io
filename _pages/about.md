@@ -38,16 +38,7 @@ School of Computer and Electronic Information, Nanjing Normal University
 
 **Research Interests**
 ======
-A <span style="color:red">TAG</span> for my whole research is <span style="color:red">"Ecological Informatics" (生态信息学)</span>.
-
-My current research interests are Audio Classification, Speech/Speaker Recognition, Fine-Grained Image Classification, and Time Series Analysis, particularly 
-
-1. Animal sound classification
-2. Speech emotion recognition
-3. Animal/Fruit/Vegetable image classification
-4. Driving maneuver/style classification
-5. PM2.5/AQI forecasting
-6. Imbalance learning and Domain adaptation
+My current research interests are using <span style="color:red">"Deep Learning Models"</span> for Audio Classification, Fine-Grained Image Classification, and Time Series Analysis.
 
 
 **Short Bio**
