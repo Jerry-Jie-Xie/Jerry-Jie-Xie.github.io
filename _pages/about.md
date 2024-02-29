@@ -9,14 +9,17 @@ redirect_from:
 ---
 
 Thank you for visiting my site!
-
-Associate Professor <br>
-School of Computer and Electronic Information, Nanjing Normal University
+<br> 副教授，硕士研究生导师 <br>
+南京师范大学计算机与电子信息学院/人工智能学院
 
 <br/>
-<span style="color:red">**期待各位同学加盟课题组！欢迎感兴趣的同学与我联系！优秀者可以推荐去中科院、澳大利亚、加拿大、巴西等合作课题组交流。课题组成果署名遵循国际规范，不抢学生一作！联系方式：xiej8734@gmail.com 或 73049@njnu.edu.cn**</span> 
+<span style="color:red">**期待各位同学加盟课题组！欢迎感兴趣的同学与我联系！优秀者可以推荐去中科院、澳大利亚、加拿大、巴西等合作课题组交流。课题组成果署名遵循国际规范，不抢学生一作！联系邮箱：xiej8734@gmail.com，联系电话：15906279084**</span> 
 <br/>
 
+
+**Research Interests**
+======
+<span style="color:blue">目前主要研究方向包括模式识别、计算声学、计算机视觉研究等</span> 。
 
 **Recent Activities**
 ======
@@ -35,11 +38,6 @@ School of Computer and Electronic Information, Nanjing Normal University
 13. presentation at 第14届全国生物多样性研讨会, 2022-12-12
 14. presentation at Sino BON-Mammal交叉科学前沿论坛第十九讲暨生物声学研究前沿论坛专题讲座, 2022-11-26
 
-
-**Research Interests**
-======
-My current research interests are using <span style="color:red">"Deep Learning Models"</span> for Audio Classification, Fine-Grained Image Classification, and Time Series Analysis.
-
 **Short Bio**
 ======
 Currently, I am an Associate Professor in the School of Computer and Electronic Information / School of Artificial Intelligence at Nanjing Normal University. 
@@ -47,19 +45,19 @@ Before joining NNU, I was an Associate Professor at Jiangnan University and a Po
 I obtained my PhD degree from Queensland University of Technology. 
 My bachelor's and master's degrees are obtained from Shanghai University. 
 
-
 **Academic Service**
 ======
 Reviewer: 
 IEEE Transactions on Intelligent Transportation Systems
 IEEE Transactions on Multimedia
 Journal of the American Statistical Association,
-IEEE Access
-Journal of Herpetology
-PeerJ
 Ecological Informatics
 Applied Acoustics
+Ecological Indicators
+Journal of Herpetology
+PeerJ
 European Journal of Remote Sensing
+IEEE Access
 SPLINE 2016, IEEE SMC 2018, ICCCAS 2018
 
 TPC: CIIS 2017, ICCCAS 2018, ICICN 2022, ACSE 2023, ISHCI2023
