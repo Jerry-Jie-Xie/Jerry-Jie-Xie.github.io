@@ -14,7 +14,7 @@ Associate Professor <br>
 School of Computer and Electronic Information, Nanjing Normal University
 
 <br/>
-<span style="color:red">**期待各位同学加盟课题组！欢迎感兴趣的同学与我联系！优秀者可以推荐去中科院、澳大利亚、加拿大、巴西等合作课题组交流。课题组成果署名遵循国际规范，不抢学生一作！联系方式：xiej8734@gmail.com 或 73049@njnu.edu.cn</span> 
+<span style="color:red">**期待各位同学加盟课题组！欢迎感兴趣的同学与我联系！优秀者可以推荐去中科院、澳大利亚、加拿大、巴西等合作课题组交流。课题组成果署名遵循国际规范，不抢学生一作！联系方式：xiej8734@gmail.com 或 73049@njnu.edu.cn**</span> 
 <br/>
 
 
