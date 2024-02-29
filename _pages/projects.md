@@ -36,7 +36,7 @@ redirect_from:
 2. 成功发表EI会议论文1篇
 3. 成功申请软件著作权2项
 
-所带<span style="color:blue">硕士生</span>发表多篇SCI论文。
+前期所带/合带<span style="color:blue">硕士生</span>发表多篇SCI论文。
 
 ======
 
