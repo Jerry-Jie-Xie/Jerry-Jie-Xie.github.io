@@ -23,15 +23,15 @@ redirect_from:
 
 **Recent Activities**
 ======
-1. One paper Accepted at Ecological Indicators (中科院二区) 2023-12-25
-2. One paper Accepted at Multimedia Tools and Applications (CCF-C) and one paper Accepted at Information Processing & Management (CCF-B)
-3. Two papers Accepted at ACPR conference
-4. presentation at 第五届全国生物多样性监测会议 & 参加第十七届中国鸟类学大会
-5. One paper Accepted at Speech Communication (CCF-B)
-6. 组织第十届CSMT全国声音与音乐技术会议的生态声学分论坛，2023-06-02
-7. presentation at 第七届BEST生物多样性监测网络研讨会
-8. visit 海南师范大学和吊罗山野外研究基地
-9. join the Editorial Board for Birds, 2023-04-20
+01. One paper Accepted at Ecological Indicators (中科院二区) 2023-12-25
+02. One paper Accepted at Multimedia Tools and Applications (CCF-C) and one paper Accepted at Information Processing & Management (CCF-B)
+03. Two papers Accepted at ACPR conference
+04. presentation at 第五届全国生物多样性监测会议 & 参加第十七届中国鸟类学大会
+05. One paper Accepted at Speech Communication (CCF-B)
+06. 组织第十届CSMT全国声音与音乐技术会议的生态声学分论坛，2023-06-02
+07. presentation at 第七届BEST生物多样性监测网络研讨会
+08. visit 海南师范大学和吊罗山野外研究基地
+09. join the Editorial Board for Birds, 2023-04-20
 10. join the Editorial Team for International Journal of Architectural Engineering Technology
 11. join as the Academic Editor for Plos One
 12. join as the TPC in several conferences including ACSE2023, ISHCI2023, ISIA2023
