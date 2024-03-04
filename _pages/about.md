@@ -42,20 +42,32 @@ redirect_from:
 
 **Academic Service**
 ======
-Reviewer: 
+<span style="bold">Reviewer: </span>
 IEEE Transactions on Intelligent Transportation Systems,
+
 IEEE Transactions on Multimedia,
+
 Journal of the American Statistical Association,
+
 Ecological Informatics,
+
 Applied Acoustics,
+
 Ecological Indicators,
+
 Journal of Herpetology,
+
 PeerJ,
+
 European Journal of Remote Sensing,
+
 IEEE Access,
+
 SPLINE 2016, IEEE SMC 2018, ICCCAS 2018
 
-TPC: CIIS 2017, ICCCAS 2018, ICICN 2022, ACSE 2023, ISHCI2023
+TPC: 
+
+CIIS 2017, ICCCAS 2018, ICICN 2022, ACSE 2023, ISHCI2023
 
 
 
