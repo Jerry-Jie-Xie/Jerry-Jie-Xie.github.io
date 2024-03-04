@@ -42,7 +42,7 @@ redirect_from:
 
 **Academic Service**
 ======
-<span style="bold">Reviewer: </span>
+<span style="font-weight:bold">Reviewer: </span>
 01. IEEE Transactions on Intelligent Transportation Systems,
 02. IEEE Transactions on Multimedia,
 03. Journal of the American Statistical Association,
@@ -52,10 +52,9 @@ redirect_from:
 07. Journal of Herpetology,
 其他若干期刊和会议
 
-<span style="bold">TPC: </span>
+<span style="font-weight:bold">TPC: </span>
 
 CIIS 2017, ICCCAS 2018, ICICN 2022, ACSE 2023, ISHCI2023
-
 
 
 
