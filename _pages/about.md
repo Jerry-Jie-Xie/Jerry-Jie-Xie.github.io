@@ -9,16 +9,17 @@ redirect_from:
 ---
 
 
-Thank you for visiting my site!
+👋 Thank you for visiting my site! 
 <br> 副教授，硕士生导师 <br>
 南京师范大学计算机与电子信息学院/人工智能学院
 
-<span style="color:red">**期待各位同学加盟课题组！欢迎感兴趣的同学与我联系！优秀者可以推荐去中科院、澳大利亚、加拿大、巴西等合作课题组交流。课题组成果署名遵循国际规范，不抢学生一作！联系邮箱：xiej8734@gmail.com，联系电话：15906279084**</span> 
+👀 <span style="color:blue">**期待各位同学加盟课题组！欢迎感兴趣的同学与我联系！优秀者可以推荐去中科院、澳大利亚、加拿大、巴西等合作课题组交流。课题组成果署名遵循国际规范，不抢学生一作！</span> 
+📫 联系邮箱：xiej8734@gmail.com，联系电话：15906279084**
 
 
 **Research Interests**
 ======
-<span style="color:blue">目前主要研究方向包括模式识别、计算声学、计算机视觉等</span> 。
+🌱 <span style="color:blue">主要研究方向：模式识别、计算声学、计算机视觉等</span> 
 
 **Recent Activities**
 ======
