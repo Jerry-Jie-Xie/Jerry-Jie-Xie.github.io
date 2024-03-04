@@ -42,7 +42,8 @@ redirect_from:
 
 **Academic Service**
 ======
-<span style="bold">Reviewer: </span>
+<span style="font-weight:bold">Reviewer: </span>
+
 IEEE Transactions on Intelligent Transportation Systems,
 
 IEEE Transactions on Multimedia,
