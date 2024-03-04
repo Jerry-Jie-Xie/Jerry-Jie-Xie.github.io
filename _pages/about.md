@@ -39,12 +39,6 @@ redirect_from:
 13. presentation at 第14届全国生物多样性研讨会, 2022-12-12
 14. presentation at Sino BON-Mammal交叉科学前沿论坛第十九讲暨生物声学研究前沿论坛专题讲座, 2022-11-26
 
-**Short Bio**
-======
-Currently, I am an Associate Professor in the School of Computer and Electronic Information / School of Artificial Intelligence at Nanjing Normal University. 
-Before joining NNU, I was an Associate Professor at Jiangnan University and a Postdoctoral Research Fellow at the University of Waterloo. 
-I obtained my PhD degree from Queensland University of Technology. 
-My bachelor's and master's degrees are obtained from Shanghai University. 
 
 **Academic Service**
 ======
