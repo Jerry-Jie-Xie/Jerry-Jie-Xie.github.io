@@ -42,7 +42,7 @@ redirect_from:
 
 **Academic Service**
 ======
-<span style="font-weight:bold">Reviewer: </span>
+<span style="bold">Reviewer: </span>
 
 IEEE Transactions on Intelligent Transportation Systems,
 
