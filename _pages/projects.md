@@ -10,6 +10,8 @@ redirect_from:
 
 ======
 
+<span style="color:blue;font-weight:bold">主要研究方向：模式识别、计算声学、计算机视觉等。</span>
+
 项目1. 基于深度学习的声音分类与识别
 
 项目2. 基于深度学习的细粒度图像分类
