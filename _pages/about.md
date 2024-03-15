@@ -20,7 +20,7 @@ redirect_from:
 
 **Research Interests**
 ======
-🌱 <span style="color:blue">主要研究方向：模式识别、计算声学、计算机视觉等</span> 
+🌱 <span style="color:blue">主要兴趣为基于人工智能技术的信号处理基础理论及应用研究，研究内容包括：声音识别与分类、声信号降噪、声音事件检测；细粒度图像分类；环境因子预测；深度学习理论及应用</span> 
 
 **Recent Activities**
 ======
