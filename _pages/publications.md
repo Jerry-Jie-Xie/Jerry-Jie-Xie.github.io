@@ -15,6 +15,7 @@ You can also find my full publication list on my [Google Scholar profile](https:
 IF updated 2023/10/23
 
 ======
+57.Zhang, Chengyun, Nengting Jin, **Jie Xie**, and Zezhou Hao. "CicadaNet: Deep learning based automatic cicada chorus filtering for improved long-term bird monitoring." Ecological Indicators 158 (2024): 111423.
 
 57.S Shi, K Hu, **J Xie**, Y Guo, H Wu. Robust scientific text classification using prompt tuning based on data augmentation with L2 regularization. Information Processing & Management 61 (1), 103531
 
