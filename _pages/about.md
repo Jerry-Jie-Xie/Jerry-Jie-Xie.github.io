@@ -24,23 +24,24 @@ redirect_from:
 
 **Recent Activities**
 ======
-1. 参加第六届生物多样性前沿论坛 2024-08
-2. 参加第五届野生动物监测与保护学术研讨会暨第二届全国动物声学科学与应用大会 
-3. One paper Accepted at WCAMA 2024-07
-4. One paper Accepted at Ecological Indicators (中科院二区) 2023-12-25
-5. One paper Accepted at Multimedia Tools and Applications (CCF-C) and one paper Accepted at Information Processing & Management (CCF-B)
-6. Two papers Accepted at ACPR conference
-7. presentation at 第五届全国生物多样性监测会议 & 参加第十七届中国鸟类学大会
-8. One paper Accepted at Speech Communication (CCF-B)
-9. 组织第十届CSMT全国声音与音乐技术会议的生态声学分论坛，2023-06-02
-10. presentation at 第七届BEST生物多样性监测网络研讨会
-11. visit 海南师范大学和吊罗山野外研究基地
-12. join the Editorial Board for Birds, 2023-04-20
-13. join the Editorial Team for International Journal of Architectural Engineering Technology
-14. join as the Academic Editor for Plos One
-15. join as the TPC in several conferences including ACSE2023, ISHCI2023, ISIA2023
-16. presentation at 第14届全国生物多样性研讨会, 2022-12-12
-17. presentation at Sino BON-Mammal交叉科学前沿论坛第十九讲暨生物声学研究前沿论坛专题讲座, 2022-11-26
+1. One paper Accepted at Multimedia Tools and Applications 2024-08
+2. 参加第六届生物多样性前沿论坛 2024-08
+3. 参加第五届野生动物监测与保护学术研讨会暨第二届全国动物声学科学与应用大会，所带本科生作海报展示
+4. One paper Accepted at WCAMA 2024-07
+5. One paper Accepted at Ecological Indicators (中科院二区) 2023-12-25
+6. One paper Accepted at Multimedia Tools and Applications (CCF-C) and one paper Accepted at Information Processing & Management (CCF-B)
+7. Two papers Accepted at ACPR conference
+8. presentation at 第五届全国生物多样性监测会议 & 参加第十七届中国鸟类学大会
+9. One paper Accepted at Speech Communication (CCF-B)
+10. 组织第十届CSMT全国声音与音乐技术会议的生态声学分论坛，2023-06-02
+11. presentation at 第七届BEST生物多样性监测网络研讨会
+12. visit 海南师范大学和吊罗山野外研究基地
+13. join the Editorial Board for Birds, 2023-04-20
+14. join the Editorial Team for International Journal of Architectural Engineering Technology
+15. join as the Academic Editor for Plos One
+16. join as the TPC in several conferences including ACSE2023, ISHCI2023, ISIA2023
+17. presentation at 第14届全国生物多样性研讨会, 2022-12-12
+18. presentation at Sino BON-Mammal交叉科学前沿论坛第十九讲暨生物声学研究前沿论坛专题讲座, 2022-11-26
 
 
 **Academic Service**
