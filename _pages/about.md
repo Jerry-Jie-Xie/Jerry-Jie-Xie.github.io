@@ -24,7 +24,7 @@ redirect_from:
 
 **Recent Activities**
 ======
-1. One paper Accepted at PRICAI 2024-09 (与Juan G. Colonna合作)
+1. One paper Accepted at PRICAI 2024-09 (与<span style="bold">Juan G. Colonna</span> 合作)
 2. One paper Accepted at Multimedia Tools and Applications 2024-08
 3. 参加第六届生物多样性前沿论坛 2024-08
 4. 参加第五届野生动物监测与保护学术研讨会暨第二届全国动物声学科学与应用大会，所带本科生作海报展示
