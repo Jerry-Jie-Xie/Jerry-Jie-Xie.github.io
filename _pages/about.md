@@ -20,15 +20,15 @@ redirect_from:
 
 **Research Interests**
 ======
-🌱 <span style="color:blue">主要兴趣为基于人工智能技术的信号处理基础理论及应用研究，研究内容包括：声音识别与分类、声信号降噪、声音事件检测；细粒度图像分类；环境因子预测；深度学习理论及应用</span> 
+🌱 <span style="color:blue">主要兴趣为基于人工智能技术的信号处理基础理论及应用研究，研究内容包括：多模态；音频信号识别；细粒度图像分类；环境因子预测；深度学习理论及应用</span> 
 
 **Recent Activities**
 ======
-1. One paper Accepted at PRICAI 2024-09
+1. One paper Accepted at PRICAI 2024-09 (与Juan G. Colonna合作)
 2. One paper Accepted at Multimedia Tools and Applications 2024-08
 3. 参加第六届生物多样性前沿论坛 2024-08
 4. 参加第五届野生动物监测与保护学术研讨会暨第二届全国动物声学科学与应用大会，所带本科生作海报展示
-5. One paper Accepted at WCAMA 2024-07
+5. One paper Accepted at WCAMA 2024-07 (与Juan G. Colonna合作)
 6. One paper Accepted at Ecological Indicators (中科院二区) 2023-12-25
 7. One paper Accepted at Multimedia Tools and Applications (CCF-C) and one paper Accepted at Information Processing & Management (CCF-B)
 8. Two papers Accepted at ACPR conference
