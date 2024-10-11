@@ -25,11 +25,11 @@ redirect_from:
 **Recent Activities**
 ======
 1. 参加2024年两栖爬行学分会芜湖研讨会, 并做题为"基于声学指数的蛙类多样性监测"的报告, 2024-09-18
-2. One paper Accepted at PRICAI 2024-09 (与<span style="color:red">Juan G. Colonna</span> 合作)
+2. One paper Accepted at PRICAI 2024-09 (与<span style="color:red">**Juan G. Colonna**</span> 合作)
 3. One paper Accepted at Multimedia Tools and Applications 2024-08
 4. 参加第六届生物多样性前沿论坛 2024-08
 5. 参加第五届野生动物监测与保护学术研讨会暨第二届全国动物声学科学与应用大会，所带本科生作海报展示
-6. One paper Accepted at WCAMA 2024-07 (与<span style="color:red">Juan G. Colonna</span> 合作)
+6. One paper Accepted at WCAMA 2024-07 (与<span style="color:red">**Juan G. Colonna**</span> 合作)
 7. One paper Accepted at Ecological Indicators (中科院二区) 2023-12-25
 8. One paper Accepted at Multimedia Tools and Applications (CCF-C) and one paper Accepted at Information Processing & Management (CCF-B)
 9. Two papers Accepted at ACPR conference
