@@ -16,7 +16,7 @@ IF updated 2023/10/23
 
 ======
 
-59. **Xie, Jie**, Mingying Zhu, Kai Hu, Jinglan Zhang, and Ya Guo. "Investigation of attention mechanism for speech command recognition." Multimedia Tools and Applications (2024): 1-16.
+59.**Xie, Jie**, Mingying Zhu, Kai Hu, Jinglan Zhang, and Ya Guo. "Investigation of attention mechanism for speech command recognition." Multimedia Tools and Applications (2024): 1-16.
 
 58.Zhang, Chengyun, Nengting Jin, **Jie Xie**, and Zezhou Hao. "CicadaNet: Deep learning based automatic cicada chorus filtering for improved long-term bird monitoring." Ecological Indicators 158 (2024): 111423.
 
