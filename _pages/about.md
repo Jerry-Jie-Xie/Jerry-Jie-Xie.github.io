@@ -56,7 +56,9 @@ redirect_from:
 05. Applied Acoustics
 06. Ecological Indicators
 07. Journal of Herpetology
-08. 其他若干期刊和会议
+08. Avian Research
+09. 生物多样性
+10. 其他若干期刊和会议
 
 <span style="font-weight:bold">TPC: </span>
 
