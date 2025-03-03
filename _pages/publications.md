@@ -16,15 +16,23 @@ IF updated 2023/10/23
 
 ======
 
-59.**Xie, Jie**, Mingying Zhu, Kai Hu, Jinglan Zhang, and Ya Guo. "Investigation of attention mechanism for speech command recognition." Multimedia Tools and Applications (2024): 1-16.
+63.**Xie, J.**, Zhu, M., & Colonna, J. G. (2024, November). Acoustic Classification of Bird Species Using Improved Pre-trained Models. In Pacific Rim International Conference on Artificial Intelligence (pp. 375-382). Singapore: Springer Nature Singapore.(CCF-C)
 
-58.Zhang, Chengyun, Nengting Jin, **Jie Xie**, and Zezhou Hao. "CicadaNet: Deep learning based automatic cicada chorus filtering for improved long-term bird monitoring." Ecological Indicators 158 (2024): 111423.
+62.**Xie, Jie**, Mingying Zhu, Kai Hu, Jinglan Zhang, and Ya Guo. "Investigation of attention mechanism for speech command recognition." Multimedia Tools and Applications (2024): 1-16. (CCF-C)
 
-57.S Shi, K Hu, **J Xie**, Y Guo, H Wu. Robust scientific text classification using prompt tuning based on data augmentation with L2 regularization. Information Processing & Management 61 (1), 103531
+61.Zhang, Chengyun, Nengting Jin, **Jie Xie**, and Zezhou Hao. "CicadaNet: Deep learning based automatic cicada chorus filtering for improved long-term bird monitoring." Ecological Indicators 158 (2024): 111423. (中科院2区)
 
-56.K Hu, Q Li, **J Xie**, Y Pu, Y Guo. Using pre-trained models and graph convolution networks to find the causal relations among events in the Chinese financial text data. Multimedia Tools and Applications, 1-22
+60.Peralta, A. D., dos Santos, E. M., **Xie, J.**, & Colonna, J. G. (2024, July). Recuperação semântica de paisagens sonoras usando banco de dados vetoriais. In Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos Naturais (WCAMA) (pp. 51-60). SBC.
 
-55.**J Xie**, M Zhu, K Hu. Fusion-based speech emotion classification using two-stage feature selection. Speech Communication 152, 102955.
+59.Wang, G., Li, J., **Xie, J.**, Xu, J., & Yang, B. (2023, November). EfficientSRFace: An Efficient Network with Super-Resolution Enhancement for Accurate Face Detection. In Asian Conference on Pattern Recognition (pp. 74-87). Cham: Springer Nature Switzerland.
+
+58.**Xie, J.**, Li, J., Zhu, M., & Wang, Q. (2023, November). Multi-step air quality index forecasting based on parallel multi-input transformers. In Asian Conference on Pattern Recognition (pp. 52-63). Cham: Springer Nature Switzerland.
+
+57.S Shi, K Hu, **J Xie**, Y Guo, H Wu. Robust scientific text classification using prompt tuning based on data augmentation with L2 regularization. Information Processing & Management 61 (1), 103531 (中科院1区)
+
+56.K Hu, Q Li, **J Xie**, Y Pu, Y Guo. Using pre-trained models and graph convolution networks to find the causal relations among events in the Chinese financial text data. Multimedia Tools and Applications, 1-22 (CCF-C)
+
+55.**J Xie**, M Zhu, K Hu. Fusion-based speech emotion classification using two-stage feature selection. Speech Communication 152, 102955. (CCF-B)
 
 54.**Xie, J**.; Zhu, M. Acoustic Classification of Bird Species Using an Early Fusion of Deep Features. Birds 2023, 4, 138-147. (Invited Paper)
 
