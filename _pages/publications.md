@@ -34,7 +34,7 @@ IF updated 2023/10/23
 
 55.**J Xie**, M Zhu, K Hu. Fusion-based speech emotion classification using two-stage feature selection. Speech Communication 152, 102955. (CCF-B)
 
-54.**Xie, J**.; Zhu, M. Acoustic Classification of Bird Species Using an Early Fusion of Deep Features. Birds 2023, 4, 138-147. (Invited Paper)
+54.**Xie, J**.; Zhu, M. Acoustic Classification of Bird Species Using an Early Fusion of Deep Features. Birds 2023, 4, 138-147. (Invited Paper, <span style="color:red">Top Cited Papers (2022–2024)</span>)
 
 53.肖治术, 崔建国, 王代平, 王志陶, 罗金红, **谢捷**. (2023). 现代生物声学的学科发展趋势及中国机遇. 生物多样性, 31(1), 22423.
 
