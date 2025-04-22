@@ -24,7 +24,7 @@ redirect_from:
 
 **Recent Activities**
 ======
-1. One paper Accepted at ICCS (Core Ranking A) and One Paper Accepeted at Journal of Cleaner Production(中科院一区), 2025-04
+1. One paper Accepted at ICCS (Core Ranking A) and One Paper Accepted at Journal of Cleaner Production(中科院一区), 2025-04
 2. 参加2024年两栖爬行学分会芜湖研讨会, 并做题为"基于声学指数的蛙类多样性监测"的报告, 2024-09-18
 3. One paper Accepted at PRICAI 2024-09 (与 Juan G. Colonna 合作)
 4. One paper Accepted at Multimedia Tools and Applications 2024-08
