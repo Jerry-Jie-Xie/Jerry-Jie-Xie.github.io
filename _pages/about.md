@@ -24,29 +24,30 @@ redirect_from:
 
 **Recent Activities**
 ======
-1. One paper Accepted at PRICAI 2025-09 (研1学生一作，本人通讯)
-2. One paper Accepted at WCAMA2025 2025-05 (与 Juan G. Colonna 合作)
-3. One paper Accepted at ICCS (Core Ranking A) and One Paper Accepted at Journal of Cleaner Production(中科院一区), 2025-04
-4. 参加2024年两栖爬行学分会芜湖研讨会, 并做题为"基于声学指数的蛙类多样性监测"的报告, 2024-09-18
-5. One paper Accepted at PRICAI 2024-09 (与 Juan G. Colonna 合作)
-6. One paper Accepted at Multimedia Tools and Applications 2024-08
-7. 参加第六届生物多样性前沿论坛 2024-08
-8. 参加第五届野生动物监测与保护学术研讨会暨第二届全国动物声学科学与应用大会，所带本科生作海报展示
-9. One paper Accepted at WCAMA2024 2024-07 (与 Juan G. Colonna 合作)
-10. One paper Accepted at Ecological Indicators (中科院二区) 2023-12-25
-11. One paper Accepted at Multimedia Tools and Applications (CCF-C) and one paper Accepted at Information Processing & Management (CCF-B)
-12. Two papers Accepted at ACPR conference
-13. presentation at 第五届全国生物多样性监测会议 & 参加第十七届中国鸟类学大会
-14. One paper Accepted at Speech Communication (CCF-B)
-15. 组织第十届CSMT全国声音与音乐技术会议的生态声学分论坛，2023-06-02
-16. presentation at 第七届BEST生物多样性监测网络研讨会
-17. visit 海南师范大学和吊罗山野外研究基地
-18. join the Editorial Board for Birds, 2023-04-20
-19. join the Editorial Team for International Journal of Architectural Engineering Technology
-20. join as the Academic Editor for Plos One
-21. join as the TPC in several conferences including ACSE2023, ISHCI2023, ISIA2023
-22. presentation at 第14届全国生物多样性研讨会, 2022-12-12
-23. presentation at Sino BON-Mammal交叉科学前沿论坛第十九讲暨生物声学研究前沿论坛专题讲座, 2022-11-26
+1. One paper Accepted at WebMedia 2025 AND One paper Accepted at 计算机与数字工程 2025-10
+2. One paper Accepted at PRICAI 2025-09 (研1学生一作，本人通讯)
+3. One paper Accepted at WCAMA2025 2025-05 (与 Juan G. Colonna 合作)
+4. One paper Accepted at ICCS (Core Ranking A) and One Paper Accepted at Journal of Cleaner Production(中科院一区), 2025-04
+5. 参加2024年两栖爬行学分会芜湖研讨会, 并做题为"基于声学指数的蛙类多样性监测"的报告, 2024-09-18
+6. One paper Accepted at PRICAI 2024-09 (与 Juan G. Colonna 合作)
+7. One paper Accepted at Multimedia Tools and Applications 2024-08
+8. 参加第六届生物多样性前沿论坛 2024-08
+9. 参加第五届野生动物监测与保护学术研讨会暨第二届全国动物声学科学与应用大会，所带本科生作海报展示
+10. One paper Accepted at WCAMA2024 2024-07 (与 Juan G. Colonna 合作)
+11. One paper Accepted at Ecological Indicators (中科院二区) 2023-12-25
+12. One paper Accepted at Multimedia Tools and Applications (CCF-C) and one paper Accepted at Information Processing & Management (CCF-B)
+13. Two papers Accepted at ACPR conference
+14. presentation at 第五届全国生物多样性监测会议 & 参加第十七届中国鸟类学大会
+15. One paper Accepted at Speech Communication (CCF-B)
+16. 组织第十届CSMT全国声音与音乐技术会议的生态声学分论坛，2023-06-02
+17. presentation at 第七届BEST生物多样性监测网络研讨会
+18. visit 海南师范大学和吊罗山野外研究基地
+19. join the Editorial Board for Birds, 2023-04-20
+20. join the Editorial Team for International Journal of Architectural Engineering Technology
+21. join as the Academic Editor for Plos One
+22. join as the TPC in several conferences including ACSE2023, ISHCI2023, ISIA2023
+23. presentation at 第14届全国生物多样性研讨会, 2022-12-12
+24. presentation at Sino BON-Mammal交叉科学前沿论坛第十九讲暨生物声学研究前沿论坛专题讲座, 2022-11-26
 
 
 **Academic Service**
